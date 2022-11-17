@@ -1,6 +1,7 @@
 package net.thomas.szkodamod;
 
 import net.fabricmc.api.ModInitializer;
+import net.thomas.szkodamod.item.ModItems;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 //very important comment
@@ -10,6 +11,8 @@ public class SzkodaMod implements ModInitializer {
 
 	@Override
 	public void onInitialize() {
+
+		ModItems.registerModItems();
 
 	}
 }
