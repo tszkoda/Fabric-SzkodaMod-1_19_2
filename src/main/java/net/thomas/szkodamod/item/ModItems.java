@@ -2,7 +2,6 @@ package net.thomas.szkodamod.item;
 
 import net.fabricmc.fabric.api.item.v1.FabricItemSettings;
 import net.minecraft.item.Item;
-import net.minecraft.item.ItemGroup;
 import net.minecraft.util.Identifier;
 import net.minecraft.util.registry.Registry;
 import net.thomas.szkodamod.SzkodaMod;
@@ -11,7 +10,10 @@ public class ModItems {
 
 
     public static final Item RAW_TUNGSTEN = registerItem("raw_tungsten",
-            new Item(new FabricItemSettings().group(ItemGroup.MISC)));
+            new Item(new FabricItemSettings().group(ModItemGroup.TUNGSTEN_INGOT)));
+
+    public static final Item TUNGSTEN_INGOT = registerItem("tungsten_ingot",
+            new Item(new FabricItemSettings().group(ModItemGroup.TUNGSTEN_INGOT)));
 
 
     private static Item registerItem(String name, Item item){

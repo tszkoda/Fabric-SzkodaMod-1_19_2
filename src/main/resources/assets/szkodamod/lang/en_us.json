@@ -1,3 +1,6 @@
 {
-  "item.szkodamod.raw_tungsten": "Raw Tungsten"
+  "item.szkodamod.raw_tungsten": "Raw Tungsten",
+  "item.szkodamod.tungsten_ingot": "Tungsten Ingot",
+
+  "itemGroup.szkodamod.tungsten_ingot": "Tungsten SzkodaMod Tab"
 }
