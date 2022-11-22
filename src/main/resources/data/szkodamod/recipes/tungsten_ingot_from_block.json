@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "szkodamod:tungsten_block"
+    }
+  ],
+  "result": {
+    "item": "szkodamod:tungsten_ingot",
+    "count": 9
+  }
+}
