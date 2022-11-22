@@ -3,6 +3,8 @@
   "item.szkodamod.tungsten_ingot": "Tungsten Ingot",
 
   "block.szkodamod.tungsten_block": "Block of Tungsten",
+  "block.szkodamod.tungsten_ore": "Tungsten Ore",
+  "block.szkodamod.deepslate_tungsten_ore": "Deepslate Tungsten Ore",
 
   "itemGroup.szkodamod.tungsten_ingot": "Tungsten SzkodaMod Tab"
 }
