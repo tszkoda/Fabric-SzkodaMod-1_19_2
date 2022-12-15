@@ -19,6 +19,9 @@ public class ModBlocks {
     public static final Block TUNGSTEN_BLOCK = registerBlock("tungsten_block",
             new Block(FabricBlockSettings.of(Material.METAL).strength(4f).requiresTool()), ModItemGroup.TUNGSTEN_INGOT);
 
+    public static final Block RAW_TUNGSTEN_BLOCK = registerBlock("raw_tungsten_block",
+            new Block(FabricBlockSettings.of(Material.METAL).strength(4f).requiresTool()), ModItemGroup.TUNGSTEN_INGOT);
+
     public static final Block TUNGSTEN_ORE = registerBlock("tungsten_ore",
             new OreBlock(FabricBlockSettings.of(Material.STONE).strength(0.1f).requiresTool(),
         UniformIntProvider.create(3,7)), ModItemGroup.TUNGSTEN_INGOT);
