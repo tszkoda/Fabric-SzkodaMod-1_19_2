@@ -1,12 +1,13 @@
 {
   "item.szkodamod.raw_tungsten": "Raw Tungsten",
   "item.szkodamod.tungsten_ingot": "Tungsten Ingot",
+  "item.szkodamod.eight_ball": "Eight Ball",
 
   "block.szkodamod.tungsten_block": "Block of Tungsten",
   "block.szkodamod.raw_tungsten_block": "Block of Raw Tungsten",
-
   "block.szkodamod.tungsten_ore": "Tungsten Ore",
   "block.szkodamod.deepslate_tungsten_ore": "Deepslate Tungsten Ore",
+  "block.szkodamod.jumpy_block": "Jumpy Block",
 
   "itemGroup.szkodamod.tungsten_ingot": "Tungsten SzkodaMod Tab"
 }
